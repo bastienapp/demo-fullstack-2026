@@ -1,12 +1,19 @@
 {
 	"folders": [
 		{
+			"name": "backend",
 			"path": "backend"
 		},
 		{
+			"name": "frontend-angular",
 			"path": "frontend"
 		},
 		{
+			"name": "frontend-react",
+			"path": "frontend-react"
+		},
+		{
+			"name": "demo-fullstack-2026",
 			"path": "."
 		}
 	]
